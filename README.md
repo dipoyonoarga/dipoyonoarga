@@ -1,3 +1,3 @@
 # Hello, world! 👋
 
-I am Arga and I'm a an informatics student at UIN Sunan Kalijaga
+I am Arga and I'm an informatics student at UIN Sunan Kalijaga
